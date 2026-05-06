@@ -1,0 +1,4 @@
+flask
+mnemonic
+bip-utils
+requests
